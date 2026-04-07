@@ -16,5 +16,3 @@ This project implements a Python statistical engine with a focus on unbiased var
 1. Run `python main.py` for results.
 2. Run `python -m unittest discover tests` for testing.
 
-## 🎥 Presentation
-
